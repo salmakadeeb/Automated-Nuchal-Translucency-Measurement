@@ -52,8 +52,8 @@ Nuchal Translucency (NT) measurement during the first trimester is a key screeni
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/SalmaHeshamm/NT-EarlyDetect.git
-cd NT-EarlyDetect
+git clone https://github.com/salmakadeeb/Automated-Nuchal-Translucency-Measurement.git
+cd Automated-Nuchal-Translucency-Measurement
 
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
