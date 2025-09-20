@@ -1,4 +1,4 @@
-# 🩺 EarlyNT — AI-Powered Nuchal Translucency Measurement for Early Detection  
+<img width="2374" height="1202" alt="image" src="https://github.com/user-attachments/assets/5da6dc6f-d0ec-4daa-b8ed-83cc8f019f08" /># 🩺 EarlyNT — AI-Powered Nuchal Translucency Measurement for Early Detection  
 
 **EarlyNT** is an AI-powered tool that assists in the **early detection of chromosomal abnormalities** by automatically **segmenting** and **measuring the Nuchal Translucency (NT)** thickness from first-trimester ultrasound images.
 
@@ -27,10 +27,10 @@ Nuchal Translucency (NT) measurement during the first trimester is a key screeni
 3. **NT thickness is measured** in millimeters  
 4. **Results are displayed or exported** for clinical review  
 
-![App Screenshot](docs/screenshot.png)  
-*Replace with an actual screenshot*
+<img width="1187" height="601" alt="screen1" src="https://github.com/user-attachments/assets/22034220-2134-41da-9897-7dc12408a481" />
 
----
+Screenshot showing the results.
+
 
 ## ⚙️ Tech Stack  
 
