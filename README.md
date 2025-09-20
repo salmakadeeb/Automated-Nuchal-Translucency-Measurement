@@ -27,9 +27,7 @@ Nuchal Translucency (NT) measurement during the first trimester is a key screeni
 3. **NT thickness is measured** in millimeters  
 4. **Results are displayed or exported** for clinical review  
 
-<img width="1187" height="601" alt="screen1" src="https://github.com/user-attachments/assets/22034220-2134-41da-9897-7dc12408a481" />
 
-Screenshot showing the results.
 
 
 ## ⚙️ Tech Stack  
